@@ -1,6 +1,6 @@
 ## Hola, soy Edison 👋
 
-**Electronico. en formacion para analista de datos decisiones de servicio**
+**Electronico. en formacion para analista de datos decisiones**
 
 - 📍 Quito - Ecuador
 - 💼 Seguridad Electronica.
