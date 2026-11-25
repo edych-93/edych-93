@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hola, soy Edison 👋
 
-<!--
-**edych-93/edych-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electronico. en formacion para analista de datos decisiones de servicio**
 
-Here are some ideas to get you started:
+- 📍 Quito - Ecuador
+- 💼 Seguridad Electronica.
+- 🎯 Analisis de innovacion referente a proyectos y mejoras en el ambito laborar actual
+- 🛠️ Excel · Power BI · SQL · Python · IA para análisis
+- 📫 https://www.linkedin.com/in/edison-chachalo-527a8a151/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proyectos
+
+| Proyecto | Pregunta de negocio |
+|Analisis de cafeterias|(https://github.com/edych-93/proyecto_cafeteria_quito)| ¿LAs ventas disminuyeron?
+
+*Formándome en la ruta Data Analyst Expert de Ciencia de Datos Ecuador.*
