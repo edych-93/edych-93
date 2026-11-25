@@ -11,6 +11,6 @@
 ### Proyectos
 
 | Proyecto | Pregunta de negocio |
-|Analisis de cafeterias|(https://github.com/edych-93/proyecto_cafeteria_quito)| ¿LAs ventas disminuyeron?
+|Analisis de cafeterias|(https://github.com/edych-93/proyecto_cafeteria_quito)| ¿Las ventas disminuyeron?
 
 *Formándome en la ruta Data Analyst Expert de Ciencia de Datos Ecuador.*
